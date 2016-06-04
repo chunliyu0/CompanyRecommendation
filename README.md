@@ -1,2 +1,2 @@
 # CompanyRecommendation
-![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
+![image](https://github.com/ycl11761/CompanyRecommendation/blob/master/mapreduce.png)
