@@ -27,7 +27,7 @@ public class RecommendationJob {
 
 		/* This is an example of how to set input and output. */
 		FileInputFormat.setInputPaths(job, "./data/input.txt");
-		FileOutputFormat.setOutputPath(job, new Path("./output"));
+		FileOutputFormat.setOutputPath(job, new Path("./data"));
 
 		/* And finally, we submit the job. */
 		job.submit();
