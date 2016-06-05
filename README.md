@@ -11,5 +11,6 @@ its 2-hop company is defined to be the number of distinct 2-hop paths between th
 1. For each company, recommend 2-hop companies.</br>
 2. Output should be sorted in the descending order of connectivity. If there is a tie, the
 node with smaller ID wins.</br>
+
 ##Similar Problem:</br>
 The method used in this problem can be extended to the area in socia media like friend recommendations.
