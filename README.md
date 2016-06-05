@@ -14,5 +14,8 @@ its 2-hop company is defined to be the number of distinct 2-hop paths between th
 node with smaller ID wins.</br>
 
 ##Problem Analysis</br>
+1. For each Mapper, it will assume that the node recommendationList[i] in the recommendataion list has the 2-hop nodes recommendationList[j], in which situation the connection to itself or the directHop will be ignored.</br>
+2. For each Reducer, Store all <recommendation, connectivity> in hashmap based on the key. then sort the recommendationMap based on the the companyId as well as connectivity, finally output the recommendations with connectivity.</br>
+
 ##Similar Problem:</br>
 The method used in this problem can be extended to the area in socia media like friend recommendations.
