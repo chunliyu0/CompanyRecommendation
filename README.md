@@ -1,6 +1,6 @@
 # CompanyRecommendation
 ![image](https://github.com/ycl11761/CompanyRecommendation/blob/master/mapreduce.png)</br>
-**Problem Description***</br>
+**Problem Description**</br>
 Suppose there is a graph for company connections, where each node represents a company (eg.
 C1, C2 …) and each edge represents exiting connection/business between two companies. Suppose
 companies want to expand their business. They are looking for a MapReduce application to find
