@@ -8,7 +8,7 @@ companies which they don’t direct connection to but are only 2 hops away in th
 following, we will call them 2-hop companies. Moreover, for a company C, the connectivity of
 its 2-hop company is defined to be the number of distinct 2-hop paths between them.</br>
 ##Problem Analysis</br>
-1. 
+ 
 ##Requirements:</br>
 1. For each company, recommend 2-hop companies.</br>
 2. Output should be sorted in the descending order of connectivity. If there is a tie, the
