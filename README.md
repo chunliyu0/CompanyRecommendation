@@ -7,12 +7,12 @@ companies want to expand their business. They are looking for a MapReduce applic
 companies which they don’t direct connection to but are only 2 hops away in the graph. In the
 following, we will call them 2-hop companies. Moreover, for a company C, the connectivity of
 its 2-hop company is defined to be the number of distinct 2-hop paths between them.</br>
-##Problem Analysis</br>
  
 ##Requirements:</br>
 1. For each company, recommend 2-hop companies.</br>
 2. Output should be sorted in the descending order of connectivity. If there is a tie, the
 node with smaller ID wins.</br>
 
+##Problem Analysis</br>
 ##Similar Problem:</br>
 The method used in this problem can be extended to the area in socia media like friend recommendations.
