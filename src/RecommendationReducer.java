@@ -1,9 +1,8 @@
 /**
  * RecommendationReducer.java
  * CIS 612 - Cloud Computing Spr.16
- * Instructor: Professor Jian Tang
  * Created on April 10, 2016, 5:33:40 PM
- * @author Chunli Yu [SUID: 422888242]
+ * @author Chunli Yu
  */
 
 package org.sample;
